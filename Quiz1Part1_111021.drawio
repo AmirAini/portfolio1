@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-11T06:59:18.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="5ZqkSBxO7twlyDSiKn08" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-11T07:10:59.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="UrZLoDud_iarIraQe-Ct" version="15.5.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1955" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="920" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -574,7 +574,7 @@
             <mxRectangle width="76" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PkNLQXMQKFSXZYDcJH0C-136" value="QuizName" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="PkNLQXMQKFSXZYDcJH0C-134" vertex="1">
+        <mxCell id="PkNLQXMQKFSXZYDcJH0C-136" value="QuestionID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="PkNLQXMQKFSXZYDcJH0C-134" vertex="1">
           <mxGeometry x="106" width="120" height="30" as="geometry">
             <mxRectangle width="120" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -610,7 +610,7 @@
             <mxRectangle width="76" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PkNLQXMQKFSXZYDcJH0C-142" value="QuestionID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="PkNLQXMQKFSXZYDcJH0C-140" vertex="1">
+        <mxCell id="PkNLQXMQKFSXZYDcJH0C-142" value="QuizName" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="PkNLQXMQKFSXZYDcJH0C-140" vertex="1">
           <mxGeometry x="106" width="120" height="20" as="geometry">
             <mxRectangle width="120" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -707,7 +707,7 @@
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nIqSPUZSHaLcF8vntuZd-116" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="nIqSPUZSHaLcF8vntuZd-25">
+        <mxCell id="nIqSPUZSHaLcF8vntuZd-116" value="var" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="nIqSPUZSHaLcF8vntuZd-25">
           <mxGeometry x="30" width="65" height="20" as="geometry">
             <mxRectangle width="65" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -725,7 +725,7 @@
             <mxRectangle width="30" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nIqSPUZSHaLcF8vntuZd-117" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="nIqSPUZSHaLcF8vntuZd-28">
+        <mxCell id="nIqSPUZSHaLcF8vntuZd-117" value="varchar" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="nIqSPUZSHaLcF8vntuZd-28">
           <mxGeometry x="30" width="65" height="20" as="geometry">
             <mxRectangle width="65" height="20" as="alternateBounds" />
           </mxGeometry>
@@ -782,7 +782,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nIqSPUZSHaLcF8vntuZd-46" value="Employee_ID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="nIqSPUZSHaLcF8vntuZd-44">
+        <mxCell id="nIqSPUZSHaLcF8vntuZd-46" value="Finance_ID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="nIqSPUZSHaLcF8vntuZd-44">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
